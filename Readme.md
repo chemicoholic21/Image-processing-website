@@ -19,9 +19,16 @@ To use this project, follow these steps:
 2. Run the cells in google colab or jupyter notebook.
 
 ## Usage
-1. Prepare your dataset and ensure it is properly formatted.
-2. Run the `main.py` script to start the high-level object detection and object segmentation process.
-3. Use the generated results for further analysis or inpainting tasks.
+-Navigate to the file Image-processing.ipynb in the repository's file list.
+-Click on the file to open it in the GitHub file viewer.
+-In the top-right corner of the file viewer, you will see a button that says "Open in Colab" (assuming the file is compatible with Google Colab). Click on this button.
+-This will open the notebook in Google Colab, where you can run the code cells and interact with the notebook.
+-If you don't have a Google account or prefer to run the notebook locally, you can click on the "Raw" button in the GitHub file viewer to view the raw contents of the notebook.
+-Copy the raw contents of the notebook and save it as a .ipynb file on your local machine.
+-Open Jupyter Notebook or JupyterLab on your local machine.
+-Navigate to the directory where you saved the .ipynb file.
+-Open the file in Jupyter Notebook or JupyterLab.
+-Now you can run the code cells in the notebook by clicking on them and either pressing Shift + Enter or clicking the "Run" button in the toolbar.
 
 ## Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
